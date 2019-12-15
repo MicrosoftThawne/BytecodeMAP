@@ -6,7 +6,7 @@ Rerubi uses Fi0ne Virtual Machine while Seven X uses a modified version of LBI.
 # Credits
 - Cindyy (Main Developer)
 - Bditt (Rerubi, inspiration)
-- Dibny (Being bae!)
+- Dibny (Being bae, communist dictator)
 # Hall of Shame
 - [x] Gusted [Biggest Idiot]
 ``Leaking a fake version of the Source Code using Oxygen X source code to ruin the sales and reputation!``
