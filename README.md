@@ -12,7 +12,7 @@ Rerubi uses Fi0ne Virtual Machine while Seven X uses a modified version of LBI.
 ``Leaking a fake version of the Source Code using Oxygen X source code to ruin the sales and reputation!``
 - [x] ColgateChef [Microsoft Tech Support | Babe]
 ``For being an A$$hole and working in Microsoft Tech Support Center (india)``
-- [x] iDev [Retarded Jew]
+- [x] iDev [White Power]
 ``Actually beliving that Seven was using Oxygen X source code and calling the owner a skid (his source code is even more skidded!)``
 - [x] _King_ [Norways Defender]
 ``Calling the owner a sk1d cause he belived that is was using Oxygen X source code.``
