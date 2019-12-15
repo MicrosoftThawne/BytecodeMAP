@@ -1,5 +1,4 @@
 /* Custom Files */
-#include "curl/curl.h"
 #include "Utilities.h"
 #include "ScriptContext/Memory.h"
 #include "ConsoleColours.h"
