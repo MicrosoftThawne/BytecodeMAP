@@ -3,6 +3,10 @@ This is a simple Deserializer Manipulator.
 It pushes scripts onto Roblox, for example this can push a Lua Virtual Machine onto Roblox and then let you call it and execute scripts using it. A good example of a Bytecode M.A.P (Bytecode Manipulator) is Rerubi or Seven X.
 Rerubi uses Fi0ne Virtual Machine while Seven X uses a modified version of LBI.
 
+Snipped a little bit so it may not work!
+
+# Updated as of 12/15/2019!
+
 # Credits
 - Cindyy (Main Developer)
 - Bditt (Rerubi, inspiration)
